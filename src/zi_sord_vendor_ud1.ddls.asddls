@@ -7,7 +7,7 @@
   {
     typeName: 'Vendor',
     typeNamePlural: 'Vendors',
-    title: { type: #STANDARD, value: 'Vendor' }
+    title: { type: #STANDARD, label: 'Vendor' }
   }
  }
 @EndUserText.label: 'CDS view for Sales Order and Vendor'
