@@ -1,0 +1,4 @@
+@EndUserText.label: 'Test'
+define service ZUI_ZC_ORDVEND_UD1 {
+  expose ZI_SORD_VENDOR_UD1 as Vendor;
+}
